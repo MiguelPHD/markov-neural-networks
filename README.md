@@ -1,5 +1,6 @@
-# HMM_DNN
-A joint end-to-end learning framework for Hybrid HMM-DNN models
+# Markov-based Neural Netwroks (MNNs)
+Leveraging Markov models as statistical inductive biases for sequential data. 
+An end-to-end framework
 
 ## Requisites
 The user should have Python 3.8 installed.
